@@ -11,7 +11,7 @@ In the `create.sql` file, model your tables. You should have a table for project
 - A user has a name and an age
 - A pledge has an amount. It belongs to a user, and it also belongs to a project.
 
-## Insert Records into Database
+## Insert Records into lDatabase
 Within the `insert.sql` file, insert 10 projects, 20 users, and 30 pledges into the database.
 
 ## Queries
